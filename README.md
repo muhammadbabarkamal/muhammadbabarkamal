@@ -32,7 +32,7 @@
   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;NLP <br> <br>
 
 
-<h2>This Github Repositories are:</h2>
+<h2>This Github Contains Following Repositories:</h2>
 
 
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐ My Expertise ⭐⭐⭐⭐⭐⭐⭐⭐⭐
