@@ -40,6 +40,8 @@
  
  ⭐<a href="https://github.com/muhammadbabarkamal/Belgium_Traffic_Signs_Classification_on_small_dataset"><b>Vision Transformer for Small dataset(Belgium Traffic Sign classification)(Deep Learning)</b>
  
+ 
+ ⭐<a href="https://github.com/muhammadbabarkamal/GDA_MultivariableGDA"><b>Machine Learning Gradient descent Algorithm & Normal Equation</b>
 
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐ My Expertise ⭐⭐⭐⭐⭐⭐⭐⭐⭐
 
