@@ -11,7 +11,7 @@
 <p align="center">
   <em>
     This is Muhammad Babar Kamal, Currently working as a Lecturer at University of Malakand, previously served Research Assistant at COMSATS University Islamabad and  <b>MS Scholar </b> graduated from <a href="http://islamabad.comsats.edu.pk/"> <b>COMSATS University Islamabad</b>, Pakistan </a>. <br>
-    I am passionate researcher who have published a number of research articles . You can acccess my articles at <a href="https://scholar.google.com.pk/citations?user=7ep2qYEAAAAJ&hl=en"> .
+    I am passionate researcher who have published a number of research articles . You can acccess my articles at <a href="https://scholar.google.com.pk/citations?user=7ep2qYEAAAAJ&hl=en"> Muhammad Babar Kamal.</a>
     A budding <b>Computer Vison & Machine Learning Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
@@ -41,9 +41,9 @@
  ⭐<a href="https://github.com/muhammadbabarkamal/Belgium_Traffic_Signs_Classification_on_small_dataset"><b>Vision Transformer for Small dataset(Belgium Traffic Sign classification)(Deep Learning)</b>
  
  
- ⭐<a href="https://github.com/muhammadbabarkamal/GDA_MultivariableGDA"><b>Machine Learning Gradient descent Algorithm & Normal Equation</b>
+ ⭐<a href="https://github.com/muhammadbabarkamal/GDA_MultivariableGDA"><b>Machine Learning Gradient descent Algorithm & Normal Equation</b></a>
 
-⭐⭐⭐⭐⭐⭐⭐⭐⭐ My Expertise ⭐⭐⭐⭐⭐⭐⭐⭐⭐
+⭐⭐⭐⭐⭐⭐⭐⭐⭐ <a href="https://www.linkedin.com/in/muhammad-babar-kamal-153607151/">My Expertise ⭐⭐⭐⭐⭐⭐⭐⭐⭐
 
 ⭐ Tensorflow ⭐ Keras ⭐ Pytorch ⭐ OpenCV
 ⭐ Deep Learning ⭐ Machine Learning ⭐ NLP ⭐ Data Visualization
@@ -52,7 +52,7 @@
 ⭐ Supervised ⭐ Unsupervised Learning ⭐ Data Clustering
 ⭐ Self Attention ⭐ Matplotlib ⭐ Seaborn ⭐ SciPy
 ⭐ Numpy ⭐ Pandas ⭐ Attention mechanism ⭐ Python ⭐ Matlab ⭐ Android 
-⭐ Flutter Application ⭐ Flask ⭐ Django ⭐ Tkinter GUI ⭐ And more...
+⭐ Flutter Application ⭐ Flask ⭐ Django ⭐ Tkinter GUI ⭐ And more...</a>
 
 
 
