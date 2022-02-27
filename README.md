@@ -34,9 +34,11 @@
 
 <h2>This Github Contains Following Repositories:</h2>
 
-⭐<a href="https://github.com/muhammadbabarkamal/Transformers"><b>Binary-View Transformers on Speech Recogination</b>
+⭐<a href="https://github.com/muhammadbabarkamal/Transformers"><b>Binary-View Transformers on Speech Recogination (Deep Learning)</b>
  
-⭐<a href="https://github.com/muhammadbabarkamal/Dajango_API_pet_urine_strip_disease_classification"><b>Dajango API Pet Disease Detection through Urine Strip</b>
+⭐<a href="https://github.com/muhammadbabarkamal/Dajango_API_pet_urine_strip_disease_classification"><b>Dajango API Pet Disease Detection through Urine Strip (Computer Vision)</b>
+ 
+ ⭐<a href="https://github.com/muhammadbabarkamal/Belgium_Traffic_Signs_Classification_on_small_dataset"><b>Vision Transformer for Small dataset(Belgium Traffic Sign classification)(Deep Learning)</b>
  
 
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐ My Expertise ⭐⭐⭐⭐⭐⭐⭐⭐⭐
